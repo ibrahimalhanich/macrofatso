@@ -1,3 +1,7 @@
+https://macrofatso.herokuapp.com/ - Checkout MacroFatso, a MERN Stack React App that helps you tailor your meals to your macro-nutrient needs!
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
